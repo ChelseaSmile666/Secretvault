@@ -1,0 +1,5 @@
+{
+	"name": "meta-bind-core",
+	"main": "src/index.ts",
+	"dependencies": {}
+}

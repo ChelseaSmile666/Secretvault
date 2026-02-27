@@ -1,0 +1,70 @@
+import type { Parser } from '@lemons_dev/parsinom/lib/Parser';
+import { P_UTILS } from '@lemons_dev/parsinom/lib/ParserUtils';
+import type { InlineFieldType } from 'packages/core/src/config/APIConfigs';
+import { FieldType } from 'packages/core/src/config/APIConfigs';
+import { ParsingError, runParser } from 'packages/core/src/parsers/ParsingError';
+import type { Highlight } from 'packages/core/src/parsers/syntaxHighlighting/Highlight';
+import {
+	HLP_BindTarget,
+	HLP_ButtonGroupDeclaration,
+	HLP_InputFieldDeclaration,
+	HLP_ViewFieldDeclaration,
+} from 'packages/core/src/parsers/syntaxHighlighting/HLPs';
+import { SyntaxHighlighting } from 'packages/core/src/parsers/syntaxHighlighting/SyntaxHighlighting';
+import { expectType } from 'packages/core/src/utils/Utils';
+import type { MetaBind } from '..';
+
+export class SyntaxHighlightingAPI {
+	public readonly mb: MetaBind;
+
+	constructor(mb: MetaBind) {
+		this.mb = mb;
+	}
+
+	highlightInputFieldDeclaration(str: string, trimWhiteSpace: boolean): SyntaxHighlighting {
+		return this.highlightWithParser(str, trimWhiteSpace, HLP_InputFieldDeclaration);
+	}
+
+	highlightViewFieldDeclaration(str: string, trimWhiteSpace: boolean): SyntaxHighlighting {
+		return this.highlightWithParser(str, trimWhiteSpace, HLP_ViewFieldDeclaration);
+	}
+
+	highlightInlineButtonDeclaration(str: string, trimWhiteSpace: boolean): SyntaxHighlighting {
+		return this.highlightWithParser(str, trimWhiteSpace, HLP_ButtonGroupDeclaration);
+	}
+
+	highlight(str: string, inlineFieldType: InlineFieldType, trimWhiteSpace: boolean): SyntaxHighlighting {
+		if (inlineFieldType === FieldType.INPUT) {
+			return this.highlightInputFieldDeclaration(str, trimWhiteSpace);
+		} else if (inlineFieldType === FieldType.VIEW) {
+			return this.highlightViewFieldDeclaration(str, trimWhiteSpace);
+		} else if (inlineFieldType === FieldType.BUTTON_GROUP) {
+			return this.highlightInlineButtonDeclaration(str, trimWhiteSpace);
+		}
+
+		expectType<never>(inlineFieldType);
+
+		throw new Error(`Unknown MDRCType ${inlineFieldType}`);
+	}
+
+	highlightBindTarget(str: string, trimWhiteSpace: boolean): SyntaxHighlighting {
+		return this.highlightWithParser(str, trimWhiteSpace, HLP_BindTarget);
+	}
+
+	private highlightWithParser(str: string, trimWhiteSpace: boolean, parser: Parser<Highlight[]>): SyntaxHighlighting {
+		try {
+			if (trimWhiteSpace) {
+				return new SyntaxHighlighting(str, runParser(parser.trim(P_UTILS.optionalWhitespace()).thenEof(), str));
+			} else {
+				return new SyntaxHighlighting(str, runParser(parser.thenEof(), str));
+			}
+		} catch (e) {
+			if (e instanceof ParsingError) {
+				return new SyntaxHighlighting(str, [], e);
+			} else {
+				console.error(e);
+				return new SyntaxHighlighting(str, []);
+			}
+		}
+	}
+}

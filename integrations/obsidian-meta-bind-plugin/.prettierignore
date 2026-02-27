@@ -1,0 +1,7 @@
+/lib
+node_modules
+package-lock.json
+exampleVault
+main.js
+Publish.js
+LICENSE.txt

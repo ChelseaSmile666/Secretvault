@@ -1,0 +1,31 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"module": "ESNext",
+		"target": "ES2022",
+		"allowJs": true,
+		"noImplicitAny": true,
+		"strict": true,
+		"strictNullChecks": true,
+		"noImplicitReturns": true,
+		"moduleResolution": "Node",
+		"importHelpers": true,
+		"isolatedModules": true,
+		"verbatimModuleSyntax": true,
+		"lib": ["DOM", "ESNext"],
+		"types": ["svelte"],
+		"allowSyntheticDefaultImports": true,
+		"skipLibCheck": true
+	},
+	"include": [
+		"packages/core/**/*.ts",
+		"packages/core/**/*.svelte",
+		"packages/obsidian/**/*.ts",
+		"packages/obsidian/**/*.svelte",
+		"packages/publish/**/*.ts",
+		"packages/publish/**/*.svelte",
+		"tests/**/*.ts",
+		"node_modules/obsidian/publish.d.ts",
+		"packages/type-ex.d.ts"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "@obsidian-mcp-tools/obsidian-plugin",
+	"description": "The Obsidian plugin component for MCP Tools, enabling secure connections between Obsidian and Claude Desktop through the Model Context Protocol (MCP).",
+	"keywords": [
+		"MCP",
+		"Claude",
+		"Chat"
+	],
+	"license": "MIT",
+	"author": "Jack Steam",
+	"type": "module",
+	"main": "main.js",
+	"scripts": {
+		"build": "bun run check && bun bun.config.ts --prod",
+		"check": "tsc --noEmit",
+		"dev": "bun --watch run bun.config.ts --watch",
+		"link": "bun scripts/link.ts",
+		"release": "run-s build zip",
+		"zip": "bun scripts/zip.ts"
+	},
+	"dependencies": {
+		"@types/fs-extra": "^11.0.4",
+		"arktype": "^2.0.0-rc.30",
+		"express": "^4.21.2",
+		"fs-extra": "^11.2.0",
+		"obsidian-local-rest-api": "^2.5.4",
+		"radash": "^12.1.0",
+		"rxjs": "^7.8.1",
+		"semver": "^7.6.3",
+		"shared": "workspace:*",
+		"svelte": "^5.17.5",
+		"svelte-preprocess": "^6.0.3"
+	},
+	"devDependencies": {
+		"@types/node": "^16.11.6",
+		"@types/semver": "^7.5.8",
+		"@typescript-eslint/eslint-plugin": "5.29.0",
+		"@typescript-eslint/parser": "5.29.0",
+		"archiver": "^7.0.1",
+		"obsidian": "latest",
+		"tslib": "2.4.0",
+		"typescript": "^5.7.2"
+	}
+}
