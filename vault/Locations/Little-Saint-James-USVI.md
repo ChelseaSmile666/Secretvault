@@ -38,15 +38,34 @@ case: "[[Investigations/Epstein/Epstein]]"
 | Document | Reference |
 |----------|-----------|
 | SDNY 19-CR-490 Indictment | Named as location of offenses |
-| SDNY 20-CR-330 Maxwell trial | Victim testimony regarding island |
+| SDNY 20-CR-330 Maxwell trial | Multiple victim testimonies re: island abuse |
 | Giuffre v. Maxwell 15-CV-07433 | Multiple deposition references |
-| FBI/IRS search | Conducted 2019 following Epstein arrest |
+| FBI/IRS search | Conducted July 2019 following Epstein arrest |
+| 2026 DOJ files | Staff records, construction logs, purchase orders |
+
+### 2026 DOJ Files — Key Evidence (Public Record)
+
+**Sulfuric Acid Delivery:**
+- 330 gallons of sulfuric acid ordered December 6, 2018 — the same day the FBI restarted their investigation into Epstein
+- Delivered to Little Saint James by Gemini Seawater Systems, LLC
+- Order date / FBI restart date coincidence noted in reporting; use of acid not established by court record
+- Source: [WION News — Epstein files sulfuric acid](https://www.wionews.com/world/epstein-files-330-gallons-sulfuric-acid-little-st-james-doj-ro-plant-1770873317929)
+
+**Staff and Operations Records:**
+- 2026 files include detailed records of island staffing: domestic workers, groundskeepers, security
+- Construction logs documenting structures built on island
+- Island described in DOJ files as "social hub for a network of powerful people" as well as abuse site
+
+**FBI Investigation History:**
+- July 2006: FBI launched federal investigation; identified 36 girls as minors at time of abuse
+- 2019 arrest: FBI/IRS searched island; seized electronic media, documents, physical evidence
 
 ---
 
 ## Flight Log Connections
-- Destination code: STT (St. Thomas) / private landing strip
-- Multiple documented flights from Teterboro (TEB), Palm Beach (PBI), and Ft. Lauderdale (FLL)
+- Destination code: STT (St. Thomas) / private landing strip on island
+- Multiple documented flights from Teterboro (TEB), Palm Beach (PBI), Ft. Lauderdale (FLL)
+- Flight logs submitted as evidence in Maxwell trial and Giuffre civil cases
 
 ---
 

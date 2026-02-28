@@ -26,15 +26,22 @@ case: "[[Investigations/Epstein/Epstein]]"
 
 | Document | Reference |
 |----------|-----------|
-| NM AG lawsuit (2023) | Filed by AG Raul Torrez; alleged abuse at ranch |
+| NM AG civil lawsuit (2023) | Filed by AG Raul Torrez; named Epstein estate, Maxwell, others |
 | Giuffre v. Maxwell depositions | Referenced in civil discovery |
+| Maxwell trial victim testimony | "Jane" and Annie Farmer testified about abuse at ranch |
+| NM AG criminal investigation reopened (2026) | Triggered by DOJ file release |
 | Private flight logs | Destination TCS (Truth or Consequences, NM) / SAF (Santa Fe) |
 
-### NM AG Lawsuit (2023)
-- Filed by New Mexico Attorney General
-- Named Epstein estate, Maxwell, and others
-- Alleged trafficking and abuse occurred at the ranch
-- Sought civil remedies and accountability
+### Maxwell Trial — Victim Testimony (Public Record)
+- Witness "Jane": testified she was flown to Zorro Ranch by Epstein and Maxwell; sexually abused by Epstein alone; forced to participate in "orgies" at the ranch
+- Annie Farmer: testified about abuse at Zorro Ranch (named publicly; chose to waive anonymity)
+
+### NM AG Criminal Investigation Reopened — February 2026
+- Date: February 19–20, 2026
+- AG Raul Torrez announced reopening citing "revelations outlined in the previously sealed FBI files"
+- New Mexico legislature passed legislation for comprehensive bipartisan commission
+- Commission will seek testimony from survivors
+- Sources: [NBC News](https://www.nbcnews.com/politics/politics-news/new-mexico-probe-jeffrey-epstein-zorro-ranch-rcna259292) · [Al Jazeera](https://www.aljazeera.com/news/2026/2/20/new-mexico-reopens-criminal-probe-related-to-jeffrey-epsteins-zorro-ranch) · [CBS News](https://www.cbsnews.com/news/new-mexico-reopens-investigation-jeffrey-epstein-zorro-ranch/) · [TIME](https://time.com/7379228/epstein-zorro-ranch-investigation/)
 
 ---
 

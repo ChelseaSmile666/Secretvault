@@ -39,6 +39,16 @@ case-ref: SDNY 19-CR-490 / SDNY 20-CR-330
 | [[People/Jeffrey-Epstein]] | 2008 FL plea (solicitation) | 18 months (served 13) |
 | [[People/Ghislaine-Maxwell]] | SDNY 2021 (sex trafficking + conspiracy, 5 counts) | 20 years federal |
 
+## Key People (Named in Public Record — Non-Convicted)
+
+| Name | Status | Notes |
+|------|--------|-------|
+| [[People/Alexander-Acosta]] | Resigned public office | DOJ prosecutor who signed 2008 NPA |
+| [[People/Virginia-Giuffre]] | Primary named accuser | Filed civil suits; docs released Jan 2024 |
+| [[People/Prince-Andrew]] | Settled civil suit 2022 | Named in released docs; all allegations #claim |
+| [[People/Jean-Luc-Brunel]] | Deceased in French custody | Named in civil filings; #claim |
+| [[People/Sarah-Kellen]] | NPA immunity | Named co-conspirator; no prosecution under NPA |
+
 ---
 
 ## Key Locations
@@ -90,6 +100,9 @@ case-ref: SDNY 19-CR-490 / SDNY 20-CR-330
 - [ ] Add flight log data to locations
 - [ ] Add civil deposition summaries to Findings/
 - [ ] Map co-conspirator allegations (all tagged #claim)
+- [ ] Add Sultan profile (identify from released docs)
+- [ ] Document email code language from Maxwell trial / released docs
+- [ ] Install packages for vault mapping if needed
 
 ---
 
