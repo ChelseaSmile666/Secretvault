@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is "Claude Code UI" (CloudCLI) — a full-stack web UI for Claude Code CLI, Cursor CLI, and OpenAI Codex, published as `@siteboon/claude-code-ui`.
 
+**GitHub**: https://github.com/ChelseaSmile666/Secretvault
+
 The `integrations/` directory contains independent sub-projects (ComfyUI, obsidian plugins, MCP servers) with their own tooling and are not part of the main build.
 
 ## Development Commands
