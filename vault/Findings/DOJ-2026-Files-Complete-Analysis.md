@@ -1,7 +1,7 @@
 ---
 tags: [finding, doj, 2026-release, analysis]
 date: 2026-02-28
-summary: Definitive intelligence-analyst assessment of the 2026 DOJ Epstein Files release — 3.5M pages, key EFTA documents, named persons, cross-reference analysis, novel connections, confidence-rated findings
+summary: Definitive intelligence-analyst assessment of the 2026 DOJ Epstein Files release — ~3M pages, key EFTA documents, named persons, cross-reference analysis, novel connections, confidence-rated findings
 verified: partial
 source: DOJ justice.gov/epstein / vault synthesis / sourced journalism
 case-ref: justice.gov/epstein

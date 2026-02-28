@@ -80,7 +80,7 @@ This document constitutes the definitive analytical synthesis of the Jeffrey Edw
 
 ### 1.1 What Is Established Beyond Reasonable Dispute
 
-**[CONFIRMED]** Jeffrey Epstein was a federally convicted sex offender (SDFL, 2008) whose operation constituted, as established by a Manhattan jury in December 2021, a sex-trafficking conspiracy run in concert with Ghislaine Maxwell (*United States v. Maxwell*, SDNY 20-CR-330).
+**[CONFIRMED]** Jeffrey Epstein was a federally convicted sex offender (SDFL, 2008) whose operation constituted, as established by a Manhattan jury in December 2021, a sex-trafficking conspiracy run in concert with Ghislaine Maxwell, convicted on five of six counts (*United States v. Maxwell*, SDNY 20-CR-330).
 
 **[CONFIRMED]** Maxwell received a 20-year federal sentence on June 28, 2022, for six counts including sex trafficking of a minor and sex trafficking conspiracy (*United States v. Maxwell*, SDNY 20-CR-330, Sentencing, June 28, 2022).
 
@@ -545,9 +545,9 @@ The NPA foreclosed prosecution under every applicable major federal statute. In 
 |-------|------|--------|
 | Epstein removed from suicide watch | Early August 2019 | CONFIRMED — BOP protocol violation |
 | Cellmate transferred out | August 9, 2019 | CONFIRMED — Epstein left alone |
-| Last confirmed guard check | c. 01:00 hours, Aug 10, 2019 | CONFIRMED |
+| Last confirmed guard check | c. 22:30 hours, Aug 9, 2019 | CONFIRMED (DOJ OIG, 2021) |
 | Epstein found unresponsive | c. 06:30 hours, Aug 10, 2019 | CONFIRMED |
-| Unmonitored period | Approximately 3 hours | CONFIRMED |
+| Unmonitored period | Approximately 8 hours | CONFIRMED (DOJ OIG, 2021) |
 | Camera outside cell | Non-operational | CONFIRMED |
 | Camera footage available | No footage recovered | CONFIRMED |
 | Guard log entries | Guards admitted falsifying logs | CONFIRMED |
@@ -572,7 +572,7 @@ The MCC therefore had clear documentation that Epstein was at self-harm risk, an
 
 **[CONFIRMED]** Dr. Barbara Sampson, New York City Chief Medical Examiner, ruled: **Cause of death**: Asphyxia due to hanging. **Manner of death**: Suicide.
 
-Physical findings: ligature furrow oblique upward (characteristic of fixed-point suspension), hyoid bone fractures (bilateral), thyroid cartilage fractures, petechial hemorrhages, no defensive wounds, no evidence of struggle in the cell.
+Physical findings: ligature furrow oblique upward (characteristic of fixed-point suspension), left hyoid bone fracture, bilateral thyroid cartilage horn fractures, petechial hemorrhages, no defensive wounds, no evidence of struggle in the cell.
 
 ### 10.2 Independent Autopsy — Dr. Michael Baden
 
