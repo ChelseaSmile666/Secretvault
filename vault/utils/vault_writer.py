@@ -1477,7 +1477,7 @@ class DocumentWriter:
             return
 
         if dry_run:
-            print(f"  [{tid:22}] DRY  → {out}")
+            print(f"  [{tid:22}] DRY  -> {out}")
             print(f"               prompt: {self.task['prompt'][:120].strip()}...")
             self.result = {"id": tid, "status": "dry-run", "path": str(self.output_path)}
             return
@@ -1499,7 +1499,7 @@ class DocumentWriter:
 
             lines = content.count("\n") + 1
             words = len(content.split())
-            print(f"  [{tid:22}] DONE  → {out}  ({lines} lines, {words:,} words)")
+            print(f"  [{tid:22}] DONE  -> {out}  ({lines} lines, {words:,} words)")
             self.result = {
                 "id": tid,
                 "status": "written",
@@ -1687,7 +1687,7 @@ def main() -> None:
 
     if not args.dry_run:
         log_file = log_session(results, LOG_DIR)
-        print(f"  Session logged → {log_file.name}\n")
+        print(f"  Session logged -> {log_file.name}\n")
 
 
 if __name__ == "__main__":
