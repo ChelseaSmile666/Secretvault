@@ -129,3 +129,4 @@ dev-debug.log
 # Task files
 tasks.json
 tasks/ 
+__pycache__/

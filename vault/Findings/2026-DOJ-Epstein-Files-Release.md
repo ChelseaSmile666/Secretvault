@@ -89,3 +89,77 @@ case-ref: justice.gov/epstein
 ---
 
 *[[Investigations/Epstein/Epstein]] · [[Findings/2024-01-Giuffre-Maxwell-Documents]] · [[People/Prince-Andrew]] · [[People/Sultan-Ahmed-bin-Sulayem]] · [[People/Peter-Mandelson]]*
+
+
+---
+
+## Scout Update — 2026-02-28
+
+---
+tags: [finding, document, epstein, doj, 2026, update]
+date: 2026-02-28
+summary: UPDATE — Confirmed release volume and logistics for 2026-01-30 DOJ Epstein files tranche; additional datasets released through February 2026
+verified: true
+source: DOJ / NYT 2026-01-30 / CBS News 2026-02-24 / Guardian 2026-02-02
+case-ref: justice.gov/epstein
+---
+
+# 2026 DOJ Epstein Files Release — Confirmed Details (UPDATE)
+
+> **Update to existing vault entry.** Additional confirmed details from multiple major news sources reviewing the January 30, 2026 release and subsequent tranches.
+
+---
+
+## Release Logistics (Confirmed)
+
+| Field | Detail |
+|---|---|
+| Primary release date | 2026-01-30, approximately 11:00 AM ET |
+| Volume — pages | 3,000,000 pages |
+| Volume — videos | 2,000 videos |
+| Volume — images | 180,000 images |
+| Material types | Email chains, text messages, news articles, internal investigative reports, court records, FBI/DOJ documents, photos |
+| Repository | justice.gov/epstein |
+| Data sets released through Feb 2026 | Datasets 9, 10, 11, 12 (per CBS News) |
+| Statutory deadline | 2025-12-19 (missed — DOJ cited volume and survivor redaction requirements) |
+| Legislation | Epstein Files Transparency Act (passed November 2025) |
+
+---
+
+## DOJ Statement on White House Involvement
+
+| Field | Detail |
+|---|---|
+| Source | Deputy Attorney General Todd Blanche |
+| Statement | White House "had nothing to do" with vetting released documents |
+| Elaboration | "They had no oversight and they did not tell this department how to do our review and what to look for and what to redact or not redact" |
+
+---
+
+## DOJ Warning on Document Integrity
+
+- DOJ issued statement noting the tranche "may include fake or falsely submitted images, documents or videos"
+- Specifically flagged "untrue and sensationalist claims against President Trump that were submitted to the FBI right before the 2020 election"
+- This warning applies to unverified tips in the collection — does **not** apply to official FBI/DOJ investigative documents
+
+---
+
+## Prominent Figures Named (Per Reporting — No Wrongdoing Established)
+
+| Person | Status in Files |
+|---|---|
+| Donald Trump | Named in unverified tips; FBI summary compiled; White House denies wrongdoing #claim |
+| Bill Clinton | Mentioned in documents; no wrongdoing established #claim |
+| Elon Musk | Mentioned in documents; no wrongdoing established #claim |
+| Bill Gates | Mentioned in documents; no wrongdoing established #claim |
+| Howard Lutnick | Commerce Secretary; mentioned in documents; no wrongdoing established #claim |
+
+---
+
+## Source
+
+- Source: (NYT 2026-01-30; Guardian 2026-02-02; CBS News 2026-02-24)
+
+---
+
+*Related: [[Findings/DOJ-EFTA-Age-Gated-Documents]] [[Findings/Trump-Epstein-Documented-Record]] [[People/Jeffrey-Epstein]]*
